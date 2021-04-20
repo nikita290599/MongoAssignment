@@ -1,2 +1,0 @@
-# MongoAssignment
-MongoDB assignments
